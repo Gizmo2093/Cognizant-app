@@ -1,4 +1,4 @@
-![cognizant](https://user-images.githubusercontent.com/33054717/199938492-2c9f3b59-629c-4dd0-afc8-cb89de879e5a.gif)
+![cognizant](https://user-images.githubusercontent.com/33054717/199939787-d48f02b7-15e5-4e02-97e9-96eb01d13ed7.gif)
 
 # Getting Started with Create React App
 
