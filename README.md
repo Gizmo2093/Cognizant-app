@@ -1,3 +1,5 @@
+![cognizant](https://user-images.githubusercontent.com/33054717/199938492-2c9f3b59-629c-4dd0-afc8-cb89de879e5a.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
